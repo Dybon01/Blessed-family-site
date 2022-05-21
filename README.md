@@ -1,4 +1,4 @@
-# Blessed family website
+# Blessed Family website
 
 Website of a music group - Blessed Family
 
