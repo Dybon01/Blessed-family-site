@@ -1,6 +1,6 @@
 # Blessed Family website
 
-Website of a music group - Blessed Family
+Website of the music group - Blessed Family
 
 Projekt strony internetowej, zespołu muzycznego Blessed Family.
 
